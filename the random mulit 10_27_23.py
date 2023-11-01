@@ -424,7 +424,7 @@ class gameWindow():
                 self.apex.pack(side=tk.LEFT, padx="2")
 
                 self.haloI_canvas = canvas1.create_window(window = self.haloI)
-
+                
 
 
                 self.frame_1.pack(fill="x", padx="3", pady="3")
